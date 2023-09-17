@@ -45,10 +45,6 @@ class Command(BaseCommand):
           self.stdout.write(
           self.style.ERROR('Oops, something went wrong!')
         )
-      else:
-          self.stdout.write(
-          self.style.ERROR('A type is missing. Check that the line containes all required types')
-        )
     self.stdout.write(
           self.style.SUCCESS(f'Added {count} readings')
         )
