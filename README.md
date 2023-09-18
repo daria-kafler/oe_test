@@ -2,9 +2,9 @@
 Submitted by Daria Kafler.
 
 ## How to install and set the project up
-- Open the 'Octop' folder in your development environment of choice (VSCode, PyCharm, etc).
+- Open the project folder in your development environment of choice (VSCode, PyCharm, etc).
 
-From the "OCTOP" folder, 
+From the top project folder, 
 - Create and activate a virtual environment
   ```
   python -m venv env
